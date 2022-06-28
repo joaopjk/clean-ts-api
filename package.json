@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/joaopjk/clean-ts-api/issues"
   },
-  "homepage": "https://github.com/joaopjk/clean-ts-api#readme"
+  "homepage": "https://github.com/joaopjk/clean-ts-api#readme",
+  "dependencies": {
+    "git-commit-msg-linter": "^4.1.3"
+  }
 }
