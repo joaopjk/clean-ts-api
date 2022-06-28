@@ -19,5 +19,9 @@
   "homepage": "https://github.com/joaopjk/clean-ts-api#readme",
   "dependencies": {
     "git-commit-msg-linter": "^4.1.3"
+  },
+  "devDependencies": {
+    "@types/node": "^18.0.0",
+    "typescript": "^4.7.4"
   }
 }
